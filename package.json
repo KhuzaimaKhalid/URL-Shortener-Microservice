@@ -10,7 +10,18 @@
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
-    "express": "^4.17.1"
+    "express": "^4.21.2",
+    "nodemon": "^3.1.10"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freeCodeCamp/boilerplate-project-urlshortener.git"
+  },
+  "keywords": [],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/freeCodeCamp/boilerplate-project-urlshortener/issues"
+  },
+  "homepage": "https://github.com/freeCodeCamp/boilerplate-project-urlshortener#readme"
 }
